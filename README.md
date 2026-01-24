@@ -50,13 +50,13 @@ The reconstruction process:
 ### Algorithms
 
 **FISTA (Fast Iterative Shrinkage-Thresholding Algorithm)**
-- Solves the optimization problem: minimize ||A·g - b||² + λ||g||₁
+- Solves the optimization problem: minimize ||A·g - b||^2 + λ||g||_1
 - Uses soft thresholding for sparsity enforcement
 - Provides fast convergence for compressive sensing problems
 
 **Multi-Frequency Weighting**
-- Higher frequencies receive greater weight in reconstruction
-- Combines information across frequency bands for improved imaging quality
+- Higher frequencies receive greater weight in reconstruction due to shorter wavelengths providing better spatial resolution
+- Combines information across frequency bands for improved imaging quality and robustness
 
 ### Physics Model
 
