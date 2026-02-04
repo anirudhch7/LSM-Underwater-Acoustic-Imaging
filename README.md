@@ -16,12 +16,12 @@ The **Linear Sampling Method** is a mathematical technique for solving inverse a
 
 ## Key Features
 
-- **Multi-Frequency Imaging**: Processes multiple acoustic frequencies (e.g., 2000, 3000, 4000 Hz) simultaneously with frequency weighting for improved resolution
-- **2D and 3D Reconstruction**: Supports both planar and volumetric imaging of underwater targets
-- **Noise-Robust Detection**: Includes SNR-controlled noise simulation and robust reconstruction algorithms
-- **Sparse Recovery**: Implements FISTA (Fast Iterative Shrinkage-Thresholding Algorithm) for efficient sparse inversion
-- **Performance Evaluation**: Includes ROC curve analysis for detection performance assessment
-- **Flexible Sensor Arrays**: Configurable circular (2D) and spherical (3D) sensor array geometries
+- **Multi-Frequency Imaging**: Processes multiple acoustic frequencies (e.g., 2000, 3000, 4000 Hz) simultaneously with frequency weighting for improved resolution.
+- **2D and 3D Reconstruction**: Supports both planar and volumetric imaging of underwater targets.
+- **Noise-Robust Detection**: Includes SNR-controlled noise simulation and robust reconstruction algorithms.
+- **Sparse Recovery**: Implements FISTA (Fast Iterative Shrinkage-Thresholding Algorithm) for efficient sparse inversion.
+- **Performance Evaluation**: Includes ROC curve analysis for detection performance assessment.
+- **Flexible Sensor Arrays**: Configurable circular (2D) and spherical (3D) sensor array geometries.
 
 ## Methodology
 
