@@ -5,6 +5,7 @@
 This project implements the **Linear Sampling Method (LSM)** for underwater acoustic imaging and target detection. LSM is a powerful computational technique for solving inverse acoustic scattering problems, enabling the reconstruction and localization of underwater objects using sensor array measurements and acoustic signals.
 The implementation provides both 2D and 3D reconstruction capabilities, utilizing multi-frequency acoustic data and advanced sparse recovery algorithms to detect and image underwater targets in noisy environments.
 
+
 ## What is LSM?
 
 The **Linear Sampling Method** is a mathematical technique for solving inverse acoustic problems. Instead of simulating how acoustic waves propagate (forward problem), LSM uses actual sensor measurements to determine where objects are located in space. The method is based on:
