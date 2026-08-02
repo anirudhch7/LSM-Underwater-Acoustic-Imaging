@@ -15,6 +15,7 @@ The **Linear Sampling Method** is a mathematical technique for solving inverse a
 - **Spherical harmonics** for 3D wave propagation
 - **FISTA optimization** for sparse signal recovery
 
+
 ## Key Features
 
 - **Multi-Frequency Imaging**: Processes multiple acoustic frequencies (e.g., 2000, 3000, 4000 Hz) simultaneously with frequency weighting for improved resolution.
